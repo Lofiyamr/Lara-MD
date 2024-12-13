@@ -14,4 +14,3 @@ AUTO_REPLY: process.env.AUTO_REPLY || "true",
 AUTO_REACT: process.env.AUTO_REACT || "true",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",    
 };
-auto react: process.env. auto react || "true"
